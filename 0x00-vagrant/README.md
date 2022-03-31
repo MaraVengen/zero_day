@@ -1,0 +1,1 @@
+This project is about installing ans knowing how to navigate a virtual machine with Vagrant, to kmow what ubuntu is and means and to know what the "uname" command prints when you run it without options
