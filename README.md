@@ -1,1 +1,1 @@
-This Project is about setting up and using your own virtual machine to do your own private work
+This Project is about installing and know how to navigate a virtual machine with vagrant, to know what Ubuntu is and means, and to know what the "uname" command prints when you run it without options. 
